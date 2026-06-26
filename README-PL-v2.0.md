@@ -149,7 +149,7 @@ Poproś właściciela systemu o certyfikaty testowe.
 ### Krok 1 — Sklonuj lub pobierz repozytorium
 
 ```bash
-git clone https://github.com/TWOJA_NAZWA/kafkapt.git
+git clone https://github.com/KarlitoQ/Kafka.git
 cd kafkapt
 ```
 Lub pobierz ZIP z GitHuba i rozpakuj.
