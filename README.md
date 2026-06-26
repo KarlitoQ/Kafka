@@ -150,7 +150,7 @@ Ask the system owner for test certificates.
 ### Step 1 — Clone or download the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kafkapt.git
+git clone https://github.com/KarlitoQ/Kafka.git
 cd kafkapt
 ```
 Or download the ZIP from GitHub and extract it.
